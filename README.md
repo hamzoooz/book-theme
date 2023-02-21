@@ -1,2 +1,2 @@
-# book-theme
-book-theme
+# wordpress-hamzoooz-theme
+ wordpress-hamzoooz-theme
